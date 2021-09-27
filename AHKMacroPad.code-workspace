@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": ".",
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "installers": true,
+      "docs": true,
+      "icon": true,
+    },
+  },
+  "extensions": {
+    "recommendations": [
+      "mark-wiemer.vscode-autohotkey-plus-plus"
+    ]
+  }
+}

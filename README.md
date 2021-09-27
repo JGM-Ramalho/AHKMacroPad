@@ -4,7 +4,7 @@ This repo is a collection of Auto Hot Key Scripts to use a cheap USB Numpad as a
 
 This is the one I have:
 
-[[https://github.com/JGM-Ramalho/AHKMacroPad/blob/master/docs/img/NGS-USB-numpad.jpg|alt="USBNumpad"]]
+[[https://github.com/JGM-Ramalho/AHKMacroPad/blob/e8d0b016ab18c9f14a5899014735a309fa4f3c34/docs/img/NGS-USB-numpad.jpg|alt="USBNumpad"]]
 
 In order to separate the key strokes from each of the keyboards I use [AutoHotInterception](https://github.com/evilC/AutoHotInterception).
 
